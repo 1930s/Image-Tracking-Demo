@@ -56,13 +56,13 @@
 		3D03ECD2216479D90015E89C /* Image-Tracking-Demo */ = {
 			isa = PBXGroup;
 			children = (
-				3D03ECD3216479D90015E89C /* AppDelegate.swift */,
-				3D03ECD5216479D90015E89C /* art.scnassets */,
 				3D03ECD7216479D90015E89C /* ViewController.swift */,
+				3D03ECD5216479D90015E89C /* art.scnassets */,
 				3D03ECD9216479D90015E89C /* Main.storyboard */,
 				3D03ECDC216479DA0015E89C /* Assets.xcassets */,
 				3D03ECDE216479DA0015E89C /* LaunchScreen.storyboard */,
 				3D03ECE1216479DA0015E89C /* Info.plist */,
+				3D03ECD3216479D90015E89C /* AppDelegate.swift */,
 			);
 			path = "Image-Tracking-Demo";
 			sourceTree = "<group>";
